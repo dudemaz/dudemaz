@@ -1,9 +1,9 @@
 # Привет! Я dudemaz 
 
-![Top Langs](https://github-readme-stats.vercel.app)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app)
 
 ### Моя стата:
-![](https://github-readme-stats.vercel.app)
+![](https://github-readme-stats-eight-theta.vercel.app)
 
 ### Стек:
 ![My Skills](https://skillicons.dev)
