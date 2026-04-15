@@ -6,6 +6,7 @@
 ![code-wars](https://www.codewars.com/users/dudemaz/badges/large)
 
 ### Стек:
-[![dudemaz GitHub stats](https://github-readme-stats.vercel.app/api?username=dudemaz)](https://github.com/dudemaz)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudemaz&layout=compact)
+
 
 ![](https://komarev.com)
