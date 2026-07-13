@@ -6,7 +6,7 @@
 ![code-wars](https://www.codewars.com/users/dudemaz/badges/large)
 
 ### Стек:
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,node.js,express)](https://skillicons.dev)
 
 
 ![](https://komarev.com)
